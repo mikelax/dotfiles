@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+  "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+  "theme": "Oceanic Next.sublime-theme",
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
