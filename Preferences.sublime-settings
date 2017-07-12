@@ -1,0 +1,31 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".hg",
+		"log",
+		"tmp",
+		".yarddoc",
+		".bundle",
+		".build",
+		"node_modules"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Handlebars",
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
