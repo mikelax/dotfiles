@@ -1,0 +1,20 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vscode-icons",
+
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.renderWhitespace": "all",
+    "files.insertFinalNewline": true,
+    "editor.matchBrackets": false,
+    "editor.wordWrap": "off",
+
+    "eslint.packageManager": "yarn"
+}
