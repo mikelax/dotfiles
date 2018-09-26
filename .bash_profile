@@ -18,6 +18,8 @@ if [ -f ~/.git-completion.bash ]; then
 fi
 
 alias ls='ls -GFh'
+alias ghsync='git fetch upstream && git checkout master && git merge upstream/master'
+
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad # light bg color
 # export LSCOLORS=GxFxCxDxBxegedabagaced # dark bg color
