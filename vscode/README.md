@@ -2,7 +2,7 @@
 
 ## User Settings File
 
-Copy `settings.json` to the [default location on (mac)OS](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations).
+Copy `settings.json` to the [default location for given OS platform](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations).
 
 For macOS the location is:  `$HOME/Library/Application Support/Code/User/settings.json`
 
@@ -20,5 +20,5 @@ Current list of installed extensions
 - Python
 - Rainbow Brackets
 - Rainbow CSV
-- Sublimt Text Keymap and Settings Importer
+- Sublime Text Keymap and Settings Importer
 - vscode-icons
