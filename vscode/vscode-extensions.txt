@@ -1,0 +1,10 @@
+amazonwebservices.aws-toolkit-vscode
+naumovs.color-highlight
+ms-azuretools.vscode-docker
+eriklynd.json-tools
+davidanson.vscode-markdownlint
+ms-python.python
+2gua.rainbow-brackets
+mechatroner.rainbow-csv
+mauve.terraform
+vscode-icons-team.vscode-icons

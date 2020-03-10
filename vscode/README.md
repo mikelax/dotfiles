@@ -8,17 +8,22 @@ For macOS the location is:  `$HOME/Library/Application Support/Code/User/setting
 
 ## Extensions
 
-Current list of installed extensions
+Here is a partial list of used extensions, see the txt file for the complete list.
 
-- Babel ES6/ES7
 - Docker
 - ESLint
 - JSON Tools
-- language-stylus
 - markdownlint
-- npm Intellisense
 - Python
 - Rainbow Brackets
 - Rainbow CSV
-- Sublime Text Keymap and Settings Importer
+- Terraform
 - vscode-icons
+
+### Install through cli
+
+Use the following commands to install the extensions using the [vs code cli](https://code.visualstudio.com/docs/editor/command-line#_working-with-extensions).
+
+```bash
+cat vscode-extensions.txt | xargs -L 1 code --install-extension
+```
