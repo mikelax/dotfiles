@@ -27,3 +27,5 @@
 	deleted = red
 [branch]
         autosetuprebase = always
+[init]
+	defaultBranch = main
